@@ -1,0 +1,19 @@
+button {
+    min-width: 150px;
+    text-transform: uppercase;
+    padding: 1rem 1.5rem;
+    background-color: red;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+#limpar-btn {
+    background-color: #444;
+}
+
+button:hover {
+    opacity: 1;
+}
